@@ -1,1 +1,3 @@
-# This is  `JUSTINE` header, which is the largest
+# This is  `JUSTINE` header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
